@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and narrative of the proceedings of the Parliament of England, touching the message and Letters of Credence, sent from the Estates General of the United Provinces; and presented to the Parliament by the Lord Ambassador Cats; with his Lordships speech delivered at the same time; and a translate of the States message into English; presented to Mr. Speaker by the Lord Ambassador Schaep; and read in the House: with the Parliaments answer, declaration, votes, and order, concerning the same. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82580</idno>
+            <idno type="STC">Wing E1296</idno>
+            <idno type="STC">Thomason E651_8</idno>
+            <idno type="STC">ESTC R205844</idno>
+            <idno type="EEBO-CITATION">99865096</idno>
+            <idno type="PROQUEST">99865096</idno>
+            <idno type="VID">166019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166019)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and narrative of the proceedings of the Parliament of England, touching the message and Letters of Credence, sent from the Estates General of the United Provinces; and presented to the Parliament by the Lord Ambassador Cats; with his Lordships speech delivered at the same time; and a translate of the States message into English; presented to Mr. Speaker by the Lord Ambassador Schaep; and read in the House: with the Parliaments answer, declaration, votes, and order, concerning the same. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166019:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND NARRATIVE Of the Proceedings of the Parliament of ENGLAND, touching the Meſſage and Letters of Credence, ſent from the Eſtates General of the United Provinces; and preſented to the Parliament by the Lord Ambaſſador <hi>Cats;</hi> With his Lordſhips Speech delivered at the ſame time; And a tranſlate of the States Meſſage into <hi>Engliſh;</hi> preſented to Mr. <hi>Speaker</hi> by the Lord Am<g ref="char:EOLhyphen"/>baſſador <hi>Schaep;</hi> and read in the Houſe: With the Par<g ref="char:EOLhyphen"/>liaments Anſwer, Declaration, Votes, and Order, con<g ref="char:EOLhyphen"/>cerning the ſame.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <figure>
+               <figDesc>Anglo-Irish blazon or coat of arms</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Horton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:166019:2"/>
+            <pb n="3" facs="tcp:166019:2"/>
+            <head>A DECLARATION AND NARRATIVE Of the Proceedings of the Parliament of ENGLAND, touching the Letters of Credence, ſent from the Eſtates General of the United Provinces; And de<g ref="char:EOLhyphen"/>livered to the <hi>Parliament</hi> by the Lord Ambaſſador <hi>CATS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of England have<g ref="char:EOLhyphen"/>ing received advertiſements from Mr. Speaker, touching his receit of a Letter from the Lords Am<g ref="char:EOLhyphen"/>baſſadors Extraordinary of the States Ge<g ref="char:EOLhyphen"/>neral of the United Provinces of the Low
+<pb n="4" facs="tcp:166019:3"/>Countries, with a Copy of their Letters of Credence therein incloſed, which were both on the 18 of this Month read in the Houſe; and after ſome debate thereupon, it was or<g ref="char:EOLhyphen"/>dered, that they ſhould have audience the next day: And that Sir Oliver Fleming Knight, Maſter of the Ceremonies, ſhould attend them with the Vote of the Parlia<g ref="char:EOLhyphen"/>ment touching the time of giving their Lordſhips audience; And that the Ser<g ref="char:EOLhyphen"/>geant at Armes attending the Parliament, ſhall take care for providing neceſſaries for fitting the Houſe for giving audience to them.</p>
+            <p>The next day, being the 19 inſtant, the Houſe being informed by the Sergeant at Armes, That the Lords Ambaſſadors from the high and mighty Lords, the Lords, the Eſtates General of the United Provinces, were ready, and did attend to preſent them<g ref="char:EOLhyphen"/>ſelves to the Parliament; It was further or<g ref="char:EOLhyphen"/>dered,
+<pb n="5" facs="tcp:166019:3"/>That the Sergeant, with the Mace, ſhould attend them to the Houſe; who coming forth, and preſenting himſelf before them, with a ſalute, ſaid;</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <opener>
+                     <salute>MY LORDS,</salute>
+                  </opener>
+                  <p>I Have acquainted the Parliament with your preſent and immediate reſidence; and by them have received Order and com<g ref="char:EOLhyphen"/>mand, to attend you perſonally to the Houſe.</p>
+                  <p>And according he attended them with the Golden Mace on his ſhoulder, who no ſooner were entred the Houſe, but they un<g ref="char:EOLhyphen"/>covered themſelves; and when they were come as far as the Bar, Mr. Speaker, and the Members uncovered their heads, and ſtood up; the Maſter of the Ceremonies, and the Serjeant attended the Lords Ambaſſadors, the one on the right hand, and the other on the left, untill they came to the Chaires ap<g ref="char:EOLhyphen"/>pointed
+<pb n="6" facs="tcp:166019:4"/>for them, which were placed in the North ſide of the Houſe upon a Turkey Carpet.</p>
+               </body>
+            </floatingText>
+            <list>
+               <head>The Ambaſsadors names were,</head>
+               <item>James Catz Knight, Lord of Walpen, Keeper of the Great Seale, and Lieutenant of the Fees of the Lords, the States of Holland, and Weſt-Friez<g ref="char:EOLhyphen"/>land.</item>
+               <item>Gerard Schaep Eſquire, Councellor and late Alderman of the City of Amſterdam, and from the aforeſaid Lords, the States of Holland and Weſt-Frieziand, &amp;c. And Paulus Vand Peire, counſellour of the city of Middelburgh.</item>
+            </list>
+            <p>The Lord Embaſſadors being ſate (the L. Cats in the middle chair, the Lord Schaep on his right hand, and the Lord Paulus on the left) and having by the hands of the Maſter of the ceremonies, pre<g ref="char:EOLhyphen"/>ſented unto Mr. Speaker their Letters of credence: the Lord Cats did in an eloquent Oration (in the Latine tongue) declare, That it was the ardent affe<g ref="char:EOLhyphen"/>ction and deſire of the high and mighty Lords, the Eſtates General of the United Provinces, to continue a right underſtanding, and firm league of Amity and Union with the common-wealth of England; and likewiſe to aſſiſt each other, both in an offenſive and
+<pb n="7" facs="tcp:166019:4"/>defenſive War, againſt any common Enemy what<g ref="char:EOLhyphen"/>ſoever; to the end, That peace and proſperity may crown the future Endeavours of both Eſtates, and a bleſſing attend them in their preſent Deſignes and conſultations. The Lord Cats having ended his Speech, the Lord Emb. Schaep preſented unto Mr. Speaker a paper, containing (in writing) what was ſpoken by the Lord Embaſſador Cats; to which Mr. Speaker returned this Anſwer,</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <opener>
+                     <salute>MY LORDS,</salute>
+                  </opener>
+                  <p>I Shall according to the courſe of the Par<g ref="char:EOLhyphen"/>liament of England, make reports unto Them of what your Lordſhips have now delivered.</p>
+               </body>
+            </floatingText>
+            <p>And thereupon the Ambaſſadours, after ſeverall enterchanges of ceremonies, withdrew; Sir Oliver Fleming (Maſter of the ceremonies) and the Ser<g ref="char:EOLhyphen"/>geant of Arms, attended them to the court of Wards; And being withdrawn, the letters of credence were read in the Houſe; wherein many paſſages, tending to Peace, Unity, and preſervation of free traffique and commerce, were debated; but the further reſult thereof was referred till VVedneſday the 24 inſtant: At which time, Mr. Speaker (according to Order)
+<pb n="8" facs="tcp:166019:5"/>made a report of the whole Embaſſie to the Houſe; who inſiſted upon certain branches, tending to peace and unity, and mutual correſpondency, &amp;c. And after ſome time ſpent in debate thereof, decla<g ref="char:EOLhyphen"/>red a great willingneſs for a firm league and union, ſo far as it may extend to the honour and happineſs of the common-wealth of England; but withall, an account and ſatisfaction is to be given for ſundry great and unparallel'd wrongs done to the Engliſh; I ſhall onely inſtance one; to wit, that of Amboyna, where divers Engliſh Merchants, and others; were moſt barbarouſly murthered by the Dutch-men (by the ſubtil Engine of a pretended plot) who proteſt<g ref="char:EOLhyphen"/>ed their innocency to the laſt hour and minute.</p>
+            <p>The Swediſh Ambaſſador hath likewiſe had au<g ref="char:EOLhyphen"/>dience, and his letters read, which tend to a generall and laſting peace: This was well reſcented, and the Houſe declared a free condeſcenſion thereunto.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
